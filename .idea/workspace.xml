@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="738cd871-165e-41ef-ad3a-4e804d577774" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/code.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Website.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website.html" afterDir="false" />
     </list>
@@ -53,6 +54,24 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SiteWebEcoris1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SiteWebEcoris1" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,7 +87,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759758335444</updated>
-      <workItem from="1759758336758" duration="4207000" />
+      <workItem from="1759758336758" duration="6153000" />
+      <workItem from="1760354190284" duration="5545000" />
+      <workItem from="1760360460413" duration="3910000" />
     </task>
     <servers />
   </component>
